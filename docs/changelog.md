@@ -1,16 +1,13 @@
 # Change Logs
 
-## 1.4.0 - 2024-08-27
+## 1.5.0 - 2024-11-03
 
 ### What's Changed
 
-* Add lint and test ci by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/24
-* Fix the cache for docs ci by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/25
-* Update model primary key for dynamic retrieval by @DavidSche in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/23
-* Prepare for 1.4.0 release by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/26
+* Update some usage documents by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/27
+* Update the interactive link address by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/28
+* update interactive link descriptions by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/29
+* Update package manager pdm to uv by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/31
+* Add create and update kwargs usage by @wu-clan in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/30
 
-### New Contributors
-
-* @DavidSche made their first contribution in https://github.com/fastapi-practices/sqlalchemy-crud-plus/pull/23
-
-**Full Changelog**: https://github.com/fastapi-practices/sqlalchemy-crud-plus/compare/1.3.0...1.4.0
+**Full Changelog**: https://github.com/fastapi-practices/sqlalchemy-crud-plus/compare/1.4.0...1.5.0
